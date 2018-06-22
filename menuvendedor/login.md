@@ -21,7 +21,7 @@ Used to collect a Token for a registered User.
 
 ```json
 {
-    "username": "iloveauth@example.com",
+    "username": "jonh@example.com",
     "password": "abcd1234"
 }
 ```

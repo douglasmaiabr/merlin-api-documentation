@@ -1,11 +1,7 @@
-# Merlin API Documentation
-
-These examples were taken from projects mainly using [Django Rest
-Framework](https://github.com/tomchristie/django-rest-framework) and so the
-JSON responses are often similar to the way in which DRF makes responses.
+# Menu Vendedor API Documentation
 
 Where full URLs are provided in responses they will be rendered as if service
-is running on 'https://merlin.com.vc/'.
+is running on 'https://menuvendedor.com/'.
 
 ## Open Endpoints
 

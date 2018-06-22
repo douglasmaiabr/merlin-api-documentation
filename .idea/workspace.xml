@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7365b9c-1136-4b36-ae7f-37214100f5d3" name="Default" comment="" />
+    <list default="true" id="c7365b9c-1136-4b36-ae7f-37214100f5d3" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/menuvendedor/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/login.md" beforeDir="false" afterPath="$PROJECT_DIR$/menuvendedor/login.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/orders/get.md" beforeDir="false" afterPath="$PROJECT_DIR$/menuvendedor/orders/pk/get.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/orders/pk/get.md" beforeDir="false" afterPath="$PROJECT_DIR$/menuvendedor/orders/get.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/orders/pk/put.md" beforeDir="false" afterPath="$PROJECT_DIR$/menuvendedor/orders/pk/put.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/products/get.md" beforeDir="false" afterPath="$PROJECT_DIR$/menuvendedor/products/get.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/products/pk/get.md" beforeDir="false" afterPath="$PROJECT_DIR$/menuvendedor/products/pk/get.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/products/pk/put.md" beforeDir="false" afterPath="$PROJECT_DIR$/menuvendedor/products/pk/put.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +21,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="login.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/menuvendedor/login.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-474">
+                <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/menuvendedor/products/get.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/menuvendedor/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="-422">
+                <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -19,6 +65,9 @@
     <replaceStrings>
       <replace>&quot;seller&quot;:&quot;montecarlo&quot;,</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -30,6 +79,8 @@
         <option value="$PROJECT_DIR$/examples/products/get.md" />
         <option value="$PROJECT_DIR$/examples/products/pk/get.md" />
         <option value="$PROJECT_DIR$/examples/products/pk/put.md" />
+        <option value="$PROJECT_DIR$/menuvendedor/login.md" />
+        <option value="$PROJECT_DIR$/menuvendedor/README.md" />
       </list>
     </option>
   </component>
@@ -51,6 +102,7 @@
     <option name="width" value="1317" />
     <option name="height" value="772" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -67,33 +119,7 @@
             <path>
               <item name="restapidocs-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="restapidocs-master" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="restapidocs-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="restapidocs-master" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="orders" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="restapidocs-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="restapidocs-master" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="orders" type="462c0819:PsiDirectoryNode" />
-              <item name="pk" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="restapidocs-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="restapidocs-master" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="products" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="restapidocs-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="restapidocs-master" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-              <item name="products" type="462c0819:PsiDirectoryNode" />
-              <item name="pk" type="462c0819:PsiDirectoryNode" />
+              <item name="menuvendedor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -140,12 +166,12 @@
       <option name="presentableId" value="Default" />
       <updated>1529609375745</updated>
       <workItem from="1529609383888" duration="5985000" />
-      <workItem from="1529679431569" duration="1234000" />
+      <workItem from="1529679431569" duration="1328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7219000" />
+    <option name="totallyTimeSpent" value="7313000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="-4" width="1317" height="772" extended-state="6" />
@@ -154,7 +180,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="right" id="Remote Host" order="3" />
@@ -315,6 +341,34 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="26">
             <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menuvendedor/login.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-474">
+            <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menuvendedor/products/get.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menuvendedor/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-422">
+            <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
           </first_editor>
           <second_editor />
         </state>
