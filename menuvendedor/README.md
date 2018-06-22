@@ -20,8 +20,8 @@ Endpoints for viewing and manipulating the Products that the Authenticated User
 has permissions to access.
 
 * [List all](products/get.md) : `GET /api/v1/{seller}/products`
-* [Show info](products/get.md) : `GET /api/v1/{seller}/product/{id}`
-* [Update info](products/put.md) : `PUT /api/v1/{seller}/product/{id}`
+* [Show info](products/pk/get.md) : `GET /api/v1/{seller}/product/{id}`
+* [Update info](products/pk/put.md) : `PUT /api/v1/{seller}/product/{id}`
 
 ### Orders
 
