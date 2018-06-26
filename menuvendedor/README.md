@@ -28,6 +28,6 @@ has permissions to access.
 Endpoints for viewing and manipulating the Orders that the Authenticated User
 has permissions to access.
 
-* [List all](accounts/get.md) : `GET /api/v1/{seller}/orders`
-* [Show info](accounts/pk/get.md) : `GET /api/v1/{seller}/order/{id}`
-* [Update info](accounts/pk/put.md) : `PUT /api/v1/{seller}/order/{id}`
+* [List all](orders/get.md) : `GET /api/v1/{seller}/orders`
+* [Show info](orders/pk/get.md) : `GET /api/v1/{seller}/order/{id}`
+* [Update info](orders/pk/put.md) : `PUT /api/v1/{seller}/order/{id}`
